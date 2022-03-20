@@ -1,8 +1,7 @@
-from vosk import Model, KaldiRecognizer, SpkModel
-import sys
-import wave
-import json
-import os
-import numpy as np
-import IPython
-
+from tkinter import *
+ 
+root = Tk()
+ 
+root.geometry('600x400+200+100')
+ 
+root.mainloop()
