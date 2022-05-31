@@ -1,7 +1,6 @@
 import re
 import numpy as np
 import time
-from sklearn.cluster import AffinityPropagation, KMeans
 from scipy import stats
 import argparse
 from transformers import logging
