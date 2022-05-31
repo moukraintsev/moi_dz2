@@ -1,8 +1,6 @@
 import re
 import numpy as np
 import time
-from scipy import stats
-import argparse
 from transformers import logging
 import recasepunc
 from recasepunc import CasePuncPredictor
